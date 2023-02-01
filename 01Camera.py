@@ -1,6 +1,7 @@
 # Bruno Capuano 2022
 # display the camera feed using OpenCV
 # the camera url is read from the command line arguments
+# Código de prueba de cambios
 
 import time
 import cv2
